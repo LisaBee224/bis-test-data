@@ -1,0 +1,57 @@
+[
+  {
+    "variant_id": "43212689965309",
+    "url": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/bavarian-bleu",
+    "description": "",
+    "price": 14.00,
+    "title": "Bavarian Bleu / Default Title",
+    "featured_image": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/towfiqu-barbhuiya-Vr4GE2yTfjI-unsplash.jpg",
+    "inventory_policy": 2,
+    "inventory": 0
+  },
+  {
+    "variant_id": "43699102318845",
+    "url": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/cheese-cat",
+    "description": "",
+    "price": 128.00,
+    "title": "Cheese Cat / Default Title",
+    "featured_image": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/files/rockpile.jpg",
+    "inventory_policy": 2
+  },
+  {
+    "variant_id": "43699101925629",
+    "url": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/ham-hat",
+    "description": "",
+    "price": 22.00,
+    "title": "Ham Hat / Default Title",
+    "featured_image": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/files/rockpile_8e76e240-2407-4fd3-a3f5-f534dbd26f90.jpg",
+    "inventory_policy": 2
+  },
+  {
+    "variant_id": "43982529691901",
+    "url": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/laser-dinosaurs",
+    "description": "A poster of laser dinosaurs",
+    "price": 15.00,
+    "title": "Laser Dinosaurs / Medium",
+    "featured_image": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/files/lasers.jpg",
+    "inventory_policy": 2
+  },
+  {
+    "variant_id": "44188601549053",
+    "url": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/test-event",
+    "description": "",
+    "price": 10.00,
+    "title": "Test Event / General Admission",
+    "featured_image": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/ticket_3d_yellow.jpg",
+    "inventory_policy": 2
+  },
+  {
+    "variant_id": "44021432910077",
+    "url": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/products/wrecked-pontiac-fiero",
+    "description": "Yes, you can buy a wrecked Pontiac Fiero",
+    "price": 200.00,
+    "title": "Wrecked Pontiac Fiero / Default Title",
+    "featured_image": "https://55sn3vvf0gj901sr-65735786749.shopifypreview.com/files/Wreck1-4113398766.jpg",
+    "inventory_policy": 2
+  }
+]
