@@ -1,6 +1,5 @@
 [
   {
-    "variant_id": "43212689965309",
     "description": "",
     "price": 14.00,
     "title": "Bavarian Bleu / Default Title",
@@ -11,7 +10,6 @@
     "link": "github.com/LisaBee224"
   },
   {
-    "variant_id": "43699102318845",
     "description": "",
     "price": 128.00,
     "title": "Cheese Cat / Default Title",
@@ -22,7 +20,6 @@
     "link": "github.com/LisaBee224"
   },
   {
-    "variant_id": "43699101925629",
     "description": "",
     "price": 22.00,
     "title": "Ham Hat / Default Title",
@@ -33,7 +30,6 @@
     "link": "github.com/LisaBee224"
   },
   {
-    "variant_id": "43982529691901",
     "description": "A poster of laser dinosaurs",
     "price": 15.00,
     "title": "Laser Dinosaurs / Medium",
@@ -44,7 +40,6 @@
     "link": "github.com/LisaBee224"
   },
   {
-    "variant_id": "44188601549053",
     "description": "",
     "price": 10.00,
     "title": "Test Event / General Admission",
@@ -55,7 +50,6 @@
     "link": "github.com/LisaBee224"
   },
   {
-    "variant_id": "44021432910077",
     "description": "Yes, you can buy a wrecked Pontiac Fiero",
     "price": 200.00,
     "title": "Wrecked Pontiac Fiero / Default Title",
